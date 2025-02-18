@@ -15,4 +15,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 ## Reflections
 
-[Add your personal reflections on what you learned in each module and how it contributes to your development skills]
+I learned how to declare variable types in TypeScript and use them effectively in my code.
+I gained a solid understanding of implementing interfaces and working with typed functions in TypeScript.
+I explored how to declare and instantiate classes, and how to use generics to make my code more flexible.
+I also learned how to organize code with namespaces and integrate external libraries in TypeScript for more advanced development.
